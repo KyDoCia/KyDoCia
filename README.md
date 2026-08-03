@@ -1,8 +1,8 @@
 <div align="center">
 
-# KYDOCIA
+<img src="./assets/profile-banner.svg" width="100%" alt="KyDoCia — Roblox Gameplay and Systems Developer" />
 
-### Roblox Gameplay & Systems Developer
+<br />
 
 Building secure, scalable and performance-focused multiplayer experiences.
 
@@ -105,10 +105,10 @@ The public repository, technical documentation, architecture diagrams and playab
 ## Engineering Principles
 
 ```text
-SECURE      Server authority and validation by default
-SCALABLE    Systems designed to grow without structural rewrites
-MODULAR     Clear responsibilities and replaceable components
-PERFORMANT  Measured optimization, not premature complexity
+SECURE       Server authority and validation by default
+SCALABLE     Systems designed to grow without structural rewrites
+MODULAR      Clear responsibilities and replaceable components
+PERFORMANT   Measured optimization, not premature complexity
 MAINTAINABLE Readable code, predictable conventions and documentation
 PLAYER-FIRST Technical quality supporting a better user experience
 ```
