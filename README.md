@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="KyDoCia — Senior Roblox Gameplay & Systems Engineer" />
+<img src="./assets/profile-banner.svg" width="100%" alt="KyDoCia - Senior Roblox Gameplay & Systems Engineer" />
 
 <br />
 
@@ -23,7 +23,7 @@ I engineer production systems where **game feel, authority, networking, security
 
 I specialize in Roblox systems that become difficult once a game leaves the prototype stage: **authoritative multiplayer gameplay, combat state, networking boundaries, exploit resistance, lifecycle correctness, persistence and performance**.
 
-My approach is architecture-first but runtime-driven. A system is not finished because its modules look clean — it is finished when ownership is unambiguous, invalid state is rejected, cleanup is deterministic, failure modes are understood, and the complete gameplay loop survives repeated runtime execution.
+My approach is architecture-first but runtime-driven. A system is not finished because its modules look clean - it is finished when ownership is unambiguous, invalid state is rejected, cleanup is deterministic, failure modes are understood, and the complete gameplay loop survives repeated runtime execution.
 
 ```text
 Client        -> input, prediction, presentation, feedback
@@ -131,13 +131,13 @@ I prefer **explicit ownership, narrow interfaces and enforceable invariants** ov
 
 ## Selected Engineering Domains
 
-**Competitive combat** — precision mechanics, authoritative state, targeting, NPC/player parity, round orchestration and high-feedback gameplay.
+**Competitive combat:** precision mechanics, authoritative state, targeting, NPC/player parity, round orchestration and high-feedback gameplay.
 
-**Security engineering** — modular anti-exploit systems built around server authority, behavioral signals, evidence and progressive response rather than fragile client-side checks.
+**Security engineering:** modular anti-exploit systems built around server authority, behavioral signals, evidence and progressive response rather than fragile client-side checks.
 
-**Persistent social/identity systems** — player data, collectibles, titles, profile/showcase state and UI-driven identity presentation with clear domain boundaries.
+**Persistent social/identity systems:** player data, collectibles, titles, profile/showcase state and UI-driven identity presentation with clear domain boundaries.
 
-**Roleplay infrastructure** — interconnected vehicle ownership, permissions, economy, enforcement and persistence systems designed as one domain rather than isolated scripts.
+**Roleplay infrastructure:** interconnected vehicle ownership, permissions, economy, enforcement and persistence systems designed as one domain rather than isolated scripts.
 
 > Some current systems and R&D repositories are intentionally private. Public code is not a complete representation of my production work.
 
@@ -192,7 +192,7 @@ Product quality > code for code's sake
 
 ## Collaboration
 
-I am interested in technically serious Roblox productions where engineering quality materially affects the product — particularly **competitive gameplay, combat, multiplayer architecture, security and complex systems**.
+I am interested in technically serious Roblox productions where engineering quality materially affects the product, particularly **competitive gameplay, combat, multiplayer architecture, security and complex systems**.
 
 I work best on problems that require more than making a feature function: **making it reliable under real players, hostile clients, continued development and production constraints.**
 
