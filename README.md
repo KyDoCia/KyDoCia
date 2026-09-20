@@ -129,6 +129,18 @@ I prefer **explicit ownership, narrow interfaces and enforceable invariants** ov
 
 ---
 
+## Public Engineering Work
+
+### [Guardian Security Framework](https://github.com/KyDoCia/Guardian-Showcase)
+
+Public engineering showcase for Guardian, my private server-authoritative security framework for Roblox.
+
+The repository covers trust boundaries, request validation, bounded diagnostic evidence, failure containment and tests. Production detection logic, thresholds, correlation rules and enforcement policy remain private.
+
+**Repository:** [KyDoCia/Guardian-Showcase](https://github.com/KyDoCia/Guardian-Showcase)
+
+---
+
 ## Selected Engineering Domains
 
 **Competitive combat:** precision mechanics, authoritative state, targeting, NPC/player parity, round orchestration and high-feedback gameplay.
