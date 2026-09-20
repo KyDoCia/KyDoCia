@@ -95,7 +95,6 @@ Runtime       -> profiling, observability, cleanup, regression gates
 - Git / branch / pull-request workflows
 - Rojo-based project structure
 - Technical documentation and handoff
-- AI-assisted engineering with human review
 - Maintainability under continued feature growth
 
 </td>
